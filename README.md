@@ -41,7 +41,7 @@
 
 ## 🖼️ Screenshots
 
-![HoverQuote Tooltip Example](screenshot.png)
+<img width="340" alt="Screenshot 2025-05-09 at 11 41 20 AM" src="https://github.com/user-attachments/assets/0d307bec-b42f-4bd7-bff5-1cb68091a044" />
 
 ---
 
